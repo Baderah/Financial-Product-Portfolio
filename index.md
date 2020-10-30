@@ -4,10 +4,10 @@ You can use the [editor on GitHub](https://github.com/Baderah/financemodels/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### I have developed the following investment and risk models 
+## I have developed the following investment and risk models 
 
-## Portfolio Management model
-## Credit Risk Models
+### Portfolio Management model
+### Credit Risk Models
 - Bulleted
 - List
 
